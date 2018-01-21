@@ -1,0 +1,90 @@
+.main
+{
+   
+    width :500px;
+    text-align: center;
+    margin:0 auto;
+    border:2px solid gray;
+    border-bottom:10px;
+    margin-top:20px;
+    font-family : sans-serif;
+
+
+}
+h1
+{
+    background-color: skyblue;
+    color:white;
+    text-align: center;
+    margin-top: 0px;
+    padding:20px;
+    margin-bottom: 20px;
+    
+}
+.AddItem
+{
+    height:30px;
+    position: relative;
+    padding-bottom: 2px;
+
+}
+.addtext
+{
+    width :80%;
+    height:30px;
+    padding:5px;
+    font-size: 15px;
+    
+}
+.AddItem button
+{
+    height: 30px;
+    width:45px;
+    margin-left: 5px;
+    cursor: pointer;
+    color:black;
+    border:1px solid black;
+  
+}
+
+ul{
+list-style: none;
+font-size: 20px;
+color:#668686;
+margin-left: -39px;
+
+}
+li
+{
+border-bottom: 1px solid #bfbfbf;
+background-color: #d7d7d7;
+padding:10px 0px;
+color:darkgreen;
+margin-bottom: 5px;
+font-variant: small-caps;
+
+
+
+}
+span
+{
+ margin-right: 10px;
+ float: right;
+ position: relative;
+ cursor: pointer;
+ color:red;
+ font-weight: bold;
+ 
+    
+}
+.myName
+{
+    text-align: center;
+    padding:20px;
+    color:blue;
+    font-weight: bold;
+    
+
+
+
+}
