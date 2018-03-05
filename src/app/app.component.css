@@ -107,4 +107,12 @@ h3
 {
     background-color: rgba(243,189,78,89);
 }
-
+button
+{
+    border-radius: 10px;
+    outline:none;
+}
+button:hover
+{
+    color:blue;
+}
